@@ -4,6 +4,12 @@
 
 A four-function calculator that allows users to enter equations and then returns the answer.
 
+## Technologies used:
+* JavaScript
+* React
+* HTML
+* CSS
+
 ## Potential Additions
 1. Add more complex calaculator operation (exponents, sinusoids, etc.)
 2. Add parentheses to support more complex equations
